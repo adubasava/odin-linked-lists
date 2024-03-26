@@ -1,1 +1,1 @@
-# odin-linked-lists
+# Odin Project Linked Lists
